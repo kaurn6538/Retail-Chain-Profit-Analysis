@@ -4,7 +4,8 @@
 
 Assuming that a retail chain operating in the United States approached us to create a Tableau visualization analyzing profit contributions at different geographic levels. This visualization provides insights into state-wide and city-level profit contributions using dual-axis maps and Level of Detail (LOD) calculations.
 
-![Screenshot 2025-03-27 123350](https://github.com/user-attachments/assets/b359cc10-c1f9-4514-9df1-36602881b0bb)
+![Screenshot 2025-03-27 124408](https://github.com/user-attachments/assets/217304b0-983b-488a-9d6b-07c01981e39c)
+
 
 ## Visualization Breakdown
 
